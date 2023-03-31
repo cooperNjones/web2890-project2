@@ -1,0 +1,17 @@
+.arrow{
+    width: 40%;
+}
+
+.header-logo{
+    width: 5%;
+}
+
+.space{
+    line-height: 1.8rem;
+}
+
+@media screen and (max-width: 575px) {
+    .none{
+        display: none;
+    }
+  }

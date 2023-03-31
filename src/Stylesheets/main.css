@@ -1,0 +1,40 @@
+@import 'navbar.css';
+@import 'hero.css';
+@import 'schedule.css';
+@import 'footer.css';
+@import 'services.css';
+@import 'our-work.css';
+@import 'how-it-works';
+
+html{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../images/brilliant.png);
+    background-color: #e2e2e2;
+    font-family: font-1;
+}
+
+.menu{
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: #6d2c06;
+}
+
+/*Font Families*/
+
+@font-face {
+    font-family: font-1;
+    src: url(../typefaces/Mukta-SemiBold.ttf);
+}
+
+
+
