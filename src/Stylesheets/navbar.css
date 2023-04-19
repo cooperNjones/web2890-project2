@@ -1,18 +1,14 @@
-.nav-logo{
-    height: auto;
-    width: 100px;
-
+.nav-logo {
+  height: auto;
+  width: 100px;
 }
 
-.hamburger{
-    background-color: #ffffff;
+.hamburger {
+  background-color: #ffffff;
 }
-
 
 @media screen and (max-width: 991px) {
-    .nav-logo{
-        display: none;
-    }
+  .nav-logo {
+    display: none;
   }
-
-  
+}/*# sourceMappingURL=navbar.css.map */

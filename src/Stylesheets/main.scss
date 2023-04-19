@@ -1,0 +1,42 @@
+@import"../../node_modules/bootstrap/scss/bootstrap.scss";
+
+@import 'navbar.scss';
+@import 'hero.scss';
+@import 'schedule.scss';
+@import 'footer.scss';
+@import 'services.scss';
+@import 'our-work.scss';
+@import 'how-it-works.scss';
+
+html{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../images/brilliant.png);
+    background-color: #e2e2e2;
+    font-family: font-1;
+}
+
+.menu{
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: #6d2c06;
+}
+
+/*Font Families*/
+
+@font-face {
+    font-family: font-1;
+    src: url(../typefaces/Mukta-SemiBold.ttf);
+}
+
+
+

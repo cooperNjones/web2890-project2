@@ -1,19 +1,20 @@
-.learn-more{
-    background: linear-gradient(#ff1d1d, #6d2c06);
-    background-size: 200% 200%;
-    width: 50%;
-    border: none;
-    border-radius: 5px;
-    margin: 10px;
-    padding: 2%;
-}
-.learn-more:hover{
-    background: linear-gradient(#c41010,#ff1d1d);
+.learn-more {
+  background: linear-gradient(#ff1d1d, #6d2c06);
+  background-size: 200% 200%;
+  width: 50%;
+  border: none;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 2%;
 }
 
-.thumbnail{
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 5%;
+.learn-more:hover {
+  background: linear-gradient(#c41010, #ff1d1d);
 }
+
+.thumbnail {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5%;
+}/*# sourceMappingURL=our-work.css.map */

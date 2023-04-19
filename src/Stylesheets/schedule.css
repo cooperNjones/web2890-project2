@@ -1,25 +1,24 @@
-.schedule-header{
-    font-size: 3rem;
-    width: 80%;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 5%;
+.schedule-header {
+  font-size: 3rem;
+  width: 80%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
 }
 
-.list{
-    font-size: 1.2rem;
-    margin-bottom: 2%;
+.list {
+  font-size: 1.2rem;
+  margin-bottom: 2%;
 }
 
-.miniBanner{
-    background: linear-gradient(#ff1d1d, #6d2c06);
-    background-size: 200% 200%;
-    padding: 2%;
+.miniBanner {
+  background: linear-gradient(#ff1d1d, #6d2c06);
+  background-size: 200% 200%;
+  padding: 2%;
 }
 
-.boxes{
-    background-color: white;
-    padding: 4%;
-    
-}
+.boxes {
+  background-color: white;
+  padding: 4%;
+}/*# sourceMappingURL=schedule.css.map */
